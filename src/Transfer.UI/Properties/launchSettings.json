@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Transfer.UI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Transfer.UI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
